@@ -51,3 +51,8 @@ creer une fonction trier
 qui recoit un array de nombre dans le desordre
 et retourne cet array par ordre du plus petit au plus grand
 
+## exo 12
+creer une fonction justPair
+qui recoit un array de nombre
+et renvoie cet array avec seulement les nombres paires
+
