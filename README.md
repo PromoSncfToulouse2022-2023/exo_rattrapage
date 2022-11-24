@@ -40,3 +40,14 @@ creer une fonction passeLaMoyenne
 qui recoit un array contenant plusieurs nombres
 et renvoie un array avec les notes superieurs a la moyenne
 
+## exo 10
+creer une fonction metLeBazar
+qui recoit un array contenant des nombres
+le melange
+puis le renvoie 
+
+## exo 11
+creer une fonction trier
+qui recoit un array de nombre dans le desordre
+et retourne cet array par ordre du plus petit au plus grand
+
