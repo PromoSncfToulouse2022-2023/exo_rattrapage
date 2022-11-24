@@ -56,3 +56,14 @@ creer une fonction justPair
 qui recoit un array de nombre
 et renvoie cet array avec seulement les nombres paires
 
+## exo 13
+creer un fichier html avec le head qui va bien
+rajouter ce code dans le body
+```
+<button id="btnSend">SEND</button>
+<input id="city" type="text" placeholder="E.g. Build a web app" />
+<p id="affichage"></p>
+```
+Dans script.js, ecouter l'evenement click du bouton.
+Au click, recuperer la valeur de l'input, et l'afficher dans le paragraphe
+
