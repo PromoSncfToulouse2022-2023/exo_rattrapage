@@ -34,3 +34,9 @@ retourne "pair" ou "impair"
 creer une fonction moyenne
 qui recoit un array contenant plusieurs nombres
 et renvoie la valeur moyenne
+
+## exo 9
+creer une fonction passeLaMoyenne
+qui recoit un array contenant plusieurs nombres
+et renvoie un array avec les notes superieurs a la moyenne
+
