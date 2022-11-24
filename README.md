@@ -29,3 +29,8 @@ et retourne le nombre de mots
 creer une fonction pairOuImpair
 recoit un nombre
 retourne "pair" ou "impair"
+
+## exo 8
+creer une fonction moyenne
+qui recoit un array contenant plusieurs nombres
+et renvoie la valeur moyenne
